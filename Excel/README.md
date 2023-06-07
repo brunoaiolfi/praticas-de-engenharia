@@ -1,0 +1,7 @@
+# EXCEL
+
+O Excel é uma ferramenta de planilha eletrônica que permite organizar, calcular e analisar dados numéricos de forma eficiente.
+
+## Tópicos
+### 1. Interface
+<img src="https://yata.s3-object.locaweb.com.br/df6c369b40b2488447edfb0d81979f6daee6ceb312e4203f9f57a19060a81c8c"/>
