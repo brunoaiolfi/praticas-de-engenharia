@@ -28,3 +28,6 @@ Práticas | 9,5 | 9,5 | 9,5 | 9,5
 
 - [ ] Programação
 - [ ] Hardware 
+
+![image](https://github.com/brunoaiolfi/praticas-de-engenharia/assets/64096262/eaee7afc-5f7a-4a70-85fa-1e025aa49168)
+
