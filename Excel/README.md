@@ -3,7 +3,7 @@
 O Excel é uma ferramenta de planilha eletrônica que permite organizar, calcular e analisar dados numéricos de forma eficiente.
 
 ## Tópicos
-### 1. Interface
+### 1. Interface 
 
 A interface do excel pode ser complexa. Segue abaixo uma imagem da interface do excel.
 
@@ -16,3 +16,4 @@ Compreendendo o conceito de células, que são os espaços individuais na planil
 ### 3. Fórmulas e funções
 
 Aprenda a usar fórmulas e funções do Excel para executar cálculos e análises
+
