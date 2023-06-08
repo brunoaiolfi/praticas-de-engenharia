@@ -17,3 +17,14 @@ Compreendendo o conceito de células, que são os espaços individuais na planil
 
 Aprenda a usar fórmulas e funções do Excel para executar cálculos e análises
 
+1. Exemplo de tabela de minhas notas.
+
+Disciplina | N1 | N2 | N3 | Média
+--- | --- | --- | --- | ---
+Jornada | 10,0 | 10,0 | 10,0 | 10,0
+Práticas | 9,5 | 9,5 | 9,5 | 9,5
+
+2. Disciplinas que falta sair a nota:
+
+- [ ] Programação
+- [ ] Hardware 
