@@ -12,3 +12,7 @@ A interface do excel pode ser complexa. Segue abaixo uma imagem da interface do 
 ### 2. Células e ranges
 
 Compreendendo o conceito de células, que são os espaços individuais na planilha, e os ranges, que são seleções de células.
+
+### 3. Fórmulas e funções
+
+Aprenda a usar fórmulas e funções do Excel para executar cálculos e análises
